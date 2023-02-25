@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-19T01:32:48 IST" name="Default suite" finished-at="2023-02-19T01:33:27 IST" duration-ms="38916">
+    <groups>
+    </groups>
+    <test started-at="2023-02-19T01:32:48 IST" name="Default test" finished-at="2023-02-19T01:33:27 IST" duration-ms="38916">
+      <class name="com.listenerss.qa.test.WebDriver_Event_Listeners">
+        <test-method signature="test_WebDriver_Event_Listeners()[pri:0, instance:com.listenerss.qa.test.WebDriver_Event_Listeners@48aca48b]" started-at="2023-02-19T01:32:48 IST" name="test_WebDriver_Event_Listeners" finished-at="2023-02-19T01:33:27 IST" duration-ms="38825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_WebDriver_Event_Listeners -->
+      </class> <!-- com.listenerss.qa.test.WebDriver_Event_Listeners -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
